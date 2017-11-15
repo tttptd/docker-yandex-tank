@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER Yu Shi <mynsa04@ya.ru>
+MAINTAINER Yu Shi <tttptd@yandex.com>
 
 RUN sudo apt-get -y update && \
     sudo apt-get -y install python-software-properties software-properties-common python-setuptools && \
